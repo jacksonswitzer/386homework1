@@ -1,3 +1,5 @@
 - Mean and standard deviation
 - Regression
 - Bayes' Theorem
+
+This sentence is the change I was asked to make for problem 5e
